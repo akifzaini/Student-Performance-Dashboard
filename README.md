@@ -1,7 +1,7 @@
-## Student Academic Performance Analysis  ##
+## 📊 Student Academic Performance Analysis  ##
 
 ##  Project Description
-This project is a Student Performance Analysis System that analyzes academic factors such as study hours, attendance, and exam scores.  
+This project is to analyse student academic performance by academic factors such as study hours, attendance, and exam scores.  
 The system cleans the dataset, performs correlation analysis, and visualizes relationships between academic effort and student performance.
 
 ## DATASET FROM: ##
