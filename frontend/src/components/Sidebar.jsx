@@ -1,4 +1,4 @@
-import { Home, BarChart2, Brain, Settings } from "lucide-react";
+import { Home, BarChart2, Brain, LineChart } from "lucide-react"; 
 import { Link, useLocation } from "react-router-dom"; 
 
 function Sidebar() {
@@ -28,6 +28,12 @@ function Sidebar() {
           text="AI Insights" 
           to="/ai-advanced" 
           active={location.pathname === "/ai-advanced"} 
+        />
+        <SidebarItem 
+          icon={<LineChart size={20} />} 
+          text="Prediction" 
+          to="/prediction" 
+          active={location.pathname === "/prediction"} 
         />
       </ul>
     </div>
