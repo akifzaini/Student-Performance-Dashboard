@@ -1,7 +1,7 @@
 ##  Student Academic Performance Analysis ##
 
 ## Project Description
-This project analyzes student academic performance based on academic effort factors such as **study hours, attendance, sleep hours, and tutoring sessions**.  
+This project analyzes student academic performance by academic effort factors such as **study hours, attendance, sleep hours, and tutoring sessions**.  
 The system cleans the dataset, performs correlation analysis, visualizes relationships, and uses machine learning to predict exam scores and GPA.
 
 The project includes a **web-based dashboard** with AI insights and prediction modules.
@@ -14,7 +14,7 @@ https://www.kaggle.com/datasets/ayeshasiddiqa123/student-perfirmance
 
 The dataset was cleaned and processed before analysis.
 
-## 🛠 Technologies Used
+## Technologies Used
 
 ### Backend
 - Python 3.12  
