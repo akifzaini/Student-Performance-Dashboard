@@ -1,10 +1,35 @@
-## 📊 Student Academic Performance Analysis  ##
+##  Student Academic Performance Analysis ##
 
-##  Project Description
-This project is to analyse student academic performance by academic factors such as study hours, attendance, and exam scores.  
-The system cleans the dataset, performs correlation analysis, and visualizes relationships between academic effort and student performance.
+## Project Description
+This project analyzes student academic performance based on academic effort factors such as **study hours, attendance, sleep hours, and tutoring sessions**.  
+The system cleans the dataset, performs correlation analysis, visualizes relationships, and uses machine learning to predict exam scores and GPA.
 
-## DATASET FROM: ##
-https://www.kaggle.com/datasets/ayeshasiddiqa123/student-perfirmance?resource=download
+The project includes a **web-based dashboard** with AI insights and prediction modules.
 
-This project was developed using Python and data analysis libraries.
+## Dataset Source
+Dataset used in this project:
+
+**Student Academic Performance Dataset**  
+https://www.kaggle.com/datasets/ayeshasiddiqa123/student-perfirmance  
+
+The dataset was cleaned and processed before analysis.
+
+## 🛠 Technologies Used
+
+### Backend
+- Python 3.12  
+- FastAPI  
+- Pandas  
+- Scikit-learn  
+- Uvicorn  
+
+### Frontend
+- React.js  
+- Tailwind CSS  
+- Chart.js / Recharts  
+
+Clone the Repository
+
+```bash
+git clone https://github.com/your-username/Student-Academic-System.git
+cd Student-Academic-System
